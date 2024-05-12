@@ -1,0 +1,5 @@
+outs:
+- md5: c61982e47de0e36aa5f8832646d4802b
+  size: 49778
+  hash: md5
+  path: extracted_data.json

@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+selenium
+PyDrive
+dvc
+dvc_gdrive
+apache-airflow
